@@ -6,7 +6,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#define HASH_SIZE 10
+#define HASH_SIZE 23
 
 struct RecordType {
     int id;
